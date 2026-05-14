@@ -1,0 +1,15 @@
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\bin\Debug\net8.0\MeuProjeto.exe
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\bin\Debug\net8.0\MeuProjeto.deps.json
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\bin\Debug\net8.0\MeuProjeto.runtimeconfig.json
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\bin\Debug\net8.0\MeuProjeto.dll
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\bin\Debug\net8.0\MeuProjeto.pdb
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\obj\Debug\net8.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\obj\Debug\net8.0\MeuProjeto.AssemblyInfo.cs
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\obj\Debug\net8.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\obj\Debug\net8.0\MeuProjeto.sourcelink.json
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\obj\Debug\net8.0\MeuProjeto.dll
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\obj\Debug\net8.0\refint\MeuProjeto.dll
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\obj\Debug\net8.0\MeuProjeto.pdb
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\obj\Debug\net8.0\MeuProjeto.genruntimeconfig.cache
+C:\Users\10748.115\Desktop\GitHub\MeuProjeto\obj\Debug\net8.0\ref\MeuProjeto.dll
